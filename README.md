@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python and DAS
-- 👯 I’m looking to collaborate on python project
+- 🔭 I’m currently working on Data Analyst
+- 🌱 I’m currently learning Data Analyst
+- 👯 I’m looking to collaborate on Data Analyst
 
 
 
